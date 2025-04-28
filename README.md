@@ -70,7 +70,6 @@ List of Images with Steganography Detection Scores and File Signature Details
 ## Step 3: Retrieve Information About the Embedded Data
 
 • To gather details about embedded content in the image:
-
 ![image](https://github.com/user-attachments/assets/9a58248e-1841-4f51-a154-12fcad34db44)
 
 • This will display file type, size, and whether data is embedded.
